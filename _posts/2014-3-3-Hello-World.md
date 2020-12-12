@@ -1,10 +1,14 @@
 ---
 layout: post
-title: You're up and running!
+title:  NYC bicycle crash statistics and predictive modelling
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+######  ######
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+The goal is to build a predictive model for bike crashes. In doing so,
+we will discover the circumstances under which crashes occur, and even
+what causes their severity.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+For analysis code please visit my [NYC bike crash analysis
+repo](https://github.com/mhalvers/nyc_bike_crash_analysis) on GitHub.
+
